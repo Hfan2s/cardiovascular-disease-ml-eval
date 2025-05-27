@@ -100,9 +100,3 @@ After preprocessing and feature scaling, models were evaluated using accuracy, p
 - Test with deep learning models (e.g., MLPs, CNNs)
 - Extend to time-series risk monitoring
 
----
-
-M.S. in Data Science | B.S. in Applied Mathematics  
-📧 fanhanming88@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio (coming soon)]()
-
